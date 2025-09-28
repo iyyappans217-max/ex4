@@ -126,13 +126,13 @@ Goddess Parvati is also worshipped here as Periyanayaki Amman.</h2> </pre>   </c
 ```
 ## OUTPUT
 
-![alt text](../resmap.png)
+![map](./resmap.png)
 
-![alt text](../resannamalai.png)
+![annamalai](./resannamalai.png)
 
-![alt text](../resnatarajar.png)
+![natarajar](./resnatarajar.png)
 
-![alt text](../respasupathy.png)
+![pasupathy](./respasupathy.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
